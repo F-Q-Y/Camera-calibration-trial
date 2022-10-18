@@ -65,6 +65,7 @@ int main(){
 
             // frame.show();
             cv::imshow("名字",frame);
+            cv::imwrite("./ans/"+to_string(i)+".jpg",frame);
             system("wait");
             cv::waitKey(1);
             //目前我对objp的理解不是很充分。
