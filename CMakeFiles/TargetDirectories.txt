@@ -1,0 +1,3 @@
+/home/fqy22/桌面/cornertest/CMakeFiles/rebuild_cache.dir
+/home/fqy22/桌面/cornertest/CMakeFiles/edit_cache.dir
+/home/fqy22/桌面/cornertest/CMakeFiles/CornerTest.dir
